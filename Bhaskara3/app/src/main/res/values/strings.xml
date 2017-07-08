@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bhaskara</string>
+    <string name="lbl_valora">DIGITE A:</string>
+    <string name="lbl_valorb">DIGITE B:</string>
+    <string name="lbl_valorc">VALOR C:</string>
+    <string name="btncalcular">CALCULAR</string>
+</resources>
